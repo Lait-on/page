@@ -27,7 +27,7 @@ interface CVContentProps {
 const CVContent: React.FC<CVContentProps> = ({ language }) => (
   <>
     <div className="header">
-      <img src="/CV_Leon_Hogenmuller.jpg" alt="Profile" className="profile-image" />
+      <img src="/photo.JPG" alt="Profile" className="profile-image" />
       <h1 className="name">Léon Hogenmuller</h1>
     </div>
 
